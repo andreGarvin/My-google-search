@@ -5,6 +5,7 @@ import sys
 import os
 
 
+# history dictionary
 history = {
     'searchs': [],
     '_len_': 0,
